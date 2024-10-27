@@ -7,7 +7,8 @@ var builder = WebApplication.CreateBuilder(args);
 string? cadena = builder.Configuration.GetConnectionString("DefaultConnection") ?? "otracadena";
 builder.Services.AddControllers();
 builder.Services.AddDbContext<Conexiones>(opt =>
-    opt.UseMySQL(cadena));
+   opt.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+//opt.UseMySQL(cadena));
 // opt.UseSqlServer(cadena)); Para uso de SQL Server
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();

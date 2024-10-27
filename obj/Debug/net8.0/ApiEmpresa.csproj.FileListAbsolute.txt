@@ -259,3 +259,4 @@ C:\Users\josej\OneDrive\Ingenieria Semestre IV\Programacion II\.NET\ApiEmpresa\b
 C:\Users\josej\OneDrive\Ingenieria Semestre IV\Programacion II\.NET\ApiEmpresa\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
 C:\Users\josej\OneDrive\Ingenieria Semestre IV\Programacion II\.NET\ApiEmpresa\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
 C:\Users\josej\OneDrive\Ingenieria Semestre IV\Programacion II\.NET\ApiEmpresa\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\josej\OneDrive\Ingenieria Semestre IV\Programacion II\.NET\ApiEmpresa\obj\Debug\net8.0\ApiEmpresa.sourcelink.json
